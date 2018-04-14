@@ -26,6 +26,11 @@
            .attr("width", 60)
            .attr("height", 100)
            .style("fill", "yellow")
+           .transition()
+           .delay(2000)
+           .duration(2000)
+           .style("fill", "blue")
+           .attr("transform", "translate(200, 0)")
        
         svg.append("circle")
             .attr("cx", 20)
