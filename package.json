@@ -1,0 +1,18 @@
+{
+  "name": "learningd3",
+  "version": "0.0.0",
+  "description": "this is my attempt to practice D3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daedwards767/practicingd3.git"
+  },
+  "author": "Davidson Edwards",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
